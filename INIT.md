@@ -1,1 +1,1 @@
-# MyBillLedger - Expense Tracker\n\nInitial commit to set up repository.\n
+deleted
